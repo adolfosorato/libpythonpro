@@ -104,7 +104,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = "libpythonpro-Adolfo"
 DESCRIPTION = "Módulo para exemplificar a construção de projetos Python no curso Pytools"
 AUTHOR = "Adolfo Sorato"
 AUTHOR_EMAIL = "adolfosorato@gmail.com"
