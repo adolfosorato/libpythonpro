@@ -9,7 +9,6 @@ Link para curso [Python Pro](https://plataforma.dev.pro.br/)
 [![codecov](https://uploader.codecov.io/latest/linux/codecov)](https://uploader.codecov.io/latest/linux/codecov)
 
 
-
 Suportada a versão 3 do Python
 
 '''console
