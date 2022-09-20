@@ -6,6 +6,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 Link para curso [Python Pro](https://plataforma.dev.pro.br/)
 
 [![Build Status](https://app.travis-ci.com/adolfosorato/libpythonpro.svg?branch=main)](https://app.travis-ci.com/adolfosorato/libpythonpro)
+[![codecov](https://uploader.codecov.io/latest/linux/codecov)]
+
+
 
 Suportada a versão 3 do Python
 
