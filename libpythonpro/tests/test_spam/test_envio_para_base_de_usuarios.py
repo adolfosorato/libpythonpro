@@ -23,7 +23,7 @@ def test_qde_de_spam(sessao, usuarios):
     for usuario in usuarios:
         sessao.salvar(usuario)
     enviador = Mock()
-    enviador_de_spam= EnviadorDeSpam(sessao, enviador)
+    enviador_de_spam = EnviadorDeSpam(sessao, enviador)
     enviador_de_spam.enviar_emails(
          'adolfosorato@gmail.com',
          'Curso python Pro',

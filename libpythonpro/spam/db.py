@@ -7,7 +7,6 @@ class Sessao:
         usuario.id = Sessao.contador
         self.usuarios.append(usuario)
 
-
     def roll_back(self):
         self.   usuarios.clear()
 
